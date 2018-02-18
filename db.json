@@ -1,11 +1,18 @@
 {
-	"posts": [{
+	"perfiles": [{
 			"id": 1,
-			"title": "hello"
+			"nombre": "Rubén Andrés",
+		        "edad": 12
 		},
 		{
 			"id": 2,
-			"title": "dos"
+			"nombre": "Katia",
+			"edad":41
+		},
+		{
+			"id": 3,
+			"nombre": "Rubén Enrique",
+			"edad":62
 		}
 	]
 }
